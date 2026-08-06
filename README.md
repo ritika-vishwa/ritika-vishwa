@@ -62,7 +62,6 @@ I'm a passionate Computer Science student who enjoys building impactful software
 - 🌱 Worked on: **Civic-Connect – Civic Issue Reporting & Community Engagement Platform**
 - 📚 Learning: **DSA, Problem Solving & Backend Development**
 - 🤝 Open to collaborate on **Full Stack Development Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Java, C++ & Git**
 - ⚡ Fun Fact: **I believe every great application starts with solving a real problem.**
 
 </td>
