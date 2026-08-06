@@ -114,8 +114,7 @@ I'm a passionate Computer Science student who enjoys building impactful software
 
 # 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika-vishwa&bg_color=00000000&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika-vishwa&theme=github-compact&bg_color=00000000&hide_border=true&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4" />
 </div>
 
 ---
@@ -173,17 +172,4 @@ I'm a passionate Computer Science student who enjoys building impactful software
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:2D0B2D,40:EF93C4,70:FF69B4,100:F8BBD0"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:F8BBD0,40:EF93C4,70:FF69B4,100:F48FB1"
-  />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:F8BBD0,40:EF93C4,70:FF69B4,100:F48FB1" />
-</picture>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:F8BBD0,40:EF93C4,70:FF69B4,100:F48FB1" />
