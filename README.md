@@ -84,7 +84,7 @@ I'm a passionate Computer Science student who enjoys building impactful software
 
 # 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,tailwind,figma&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,tailwind,figma&perline=10" />
 
 </div>
 
@@ -173,6 +173,8 @@ I'm a passionate Computer Science student who enjoys building impactful software
 
 </div>
 
+<div align="center">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -184,4 +186,4 @@ I'm a passionate Computer Science student who enjoys building impactful software
   />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:F8BBD0,40:EF93C4,70:FF69B4,100:F48FB1" />
 </picture>
-
+</div>
