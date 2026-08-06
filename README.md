@@ -29,9 +29,15 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/ritika-vishwa?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
-<img src="https://img.shields.io/github/stars/ritika-vishwa?style=for-the-badge&logo=github&label=Stars&color=F48FB1" />
-<img src="https://komarev.com/ghpvc/?username=ritika-vishwa&style=for-the-badge&color=FF69B4&label=Profile+Views" />
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/ritika-vishwa?style=for-the-badge&logo=github&label=Followers&color=EF93C4"/>
+
+<img src="https://komarev.com/ghpvc/?username=ritika-vishwa&style=for-the-badge&color=FF69B4&label=Profile+Views"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-F48FB1?style=for-the-badge"/>
+
+</div>
 
 </div>
 
@@ -91,9 +97,15 @@ I'm a passionate Computer Science student who enjoys building impactful software
 
 # 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritika-vishwa&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika-vishwa&layout=compact&theme=transparent&hide_border=true&title_color=EF93C4&text_color=F8BBD0"/>
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=ritika-vishwa&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&rank_icon=github&cache_seconds=1800" />
+
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika-vishwa&layout=compact&theme=transparent&hide_border=true&title_color=EF93C4&text_color=F8BBD0&langs_count=8&cache_seconds=1800" />
+
+</div>
 
 </div>
 
