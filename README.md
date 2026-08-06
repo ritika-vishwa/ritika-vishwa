@@ -51,8 +51,6 @@ I'm a passionate Computer Science student who enjoys building impactful software
 ✨ **A few things about me**
 
 - 🌸 Currently working on exciting Full Stack projects
-- 💻 Learning Backend Development & System Design
-- 🚀 Exploring Open Source
 - 📚 Practicing Data Structures & Algorithms
 - 🎯 Goal: Become a great Software Engineer
 - 🌍 Love creating beautiful UI experiences
@@ -63,7 +61,7 @@ I'm a passionate Computer Science student who enjoys building impactful software
 ### Currently
 - 🌱 Worked on: **Civic-Connect – Civic Issue Reporting & Community Engagement Platform**
 - 📚 Learning: **DSA, Problem Solving & Backend Development**
-- 🤝 Open to collaborate on **Open Source & Full Stack Development Projects**
+- 🤝 Open to collaborate on **Full Stack Development Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Java, C++ & Git**
 - ⚡ Fun Fact: **I believe every great application starts with solving a real problem.**
 
@@ -84,7 +82,7 @@ I'm a passionate Computer Science student who enjoys building impactful software
 
 # 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,tailwind,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,react,firebase,git,github,vscode,tailwind,figma&perline=7" />
 
 </div>
 
