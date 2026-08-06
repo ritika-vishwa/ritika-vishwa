@@ -24,7 +24,7 @@
 
 # Hey there, I'm **Ritika** 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full+Stack+Developer;DSA+%26+Problem+Solving;Open+Source+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate;Aspiring+Full+Stack+Developer;DSA+%26+Problem+Solving;Learning+Enthusiast+%F0%9F%9A%80" />
 
 
 <br>
